@@ -10,7 +10,7 @@ namespace Pacman
         public void CreateFormElements(Form formInstance)
         {
             PlayerOneScoreText.ForeColor = System.Drawing.Color.White;
-            PlayerOneScoreText.Font = new System.Drawing.Font("Aria", 14);
+            PlayerOneScoreText.Font = new System.Drawing.Font("Arial", 14);
             PlayerOneScoreText.Top = 5;
             PlayerOneScoreText.Left = 20;
             PlayerOneScoreText.Height = 20;
